@@ -1,0 +1,1 @@
+Download the face you want to detect as 1.png and out of the screenshots of many faces in 2.png it will detect correct face and show you.
